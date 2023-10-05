@@ -37780,18 +37780,18 @@ $S:0}
 A.acO.prototype={
 $0(){var s=this.a
 s.Q=!0
-s.as="ZedDesk Queries Data Uploaded Successfully \u2705"},
+s.as="ZenDesk Queries Data Uploaded Successfully \u2705"},
 $S:0}
 A.acP.prototype={
 $0(){var s,r=this.a
 r.Q=!1
 s=this.b
-r.as="ZedDesk Queries Data Failed to upload Successfully \u274c\nError: "+s.b+" - "+A.h(s.c)},
+r.as="ZenDesk Queries Data Failed to upload Successfully \u274c\nError: "+s.b+" - "+A.h(s.c)},
 $S:0}
 A.acQ.prototype={
 $0(){var s=this.a
 s.Q=!1
-s.as="ZedDesk Queries Data Failed to upload Successfully \u274c"},
+s.as="ZenDesk Queries Data Failed to upload Successfully \u274c"},
 $S:0}
 A.acM.prototype={
 $0(){this.a.z=!0},
